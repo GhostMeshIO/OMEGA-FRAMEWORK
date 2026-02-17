@@ -1,7 +1,6 @@
 # 🧠 ΩMEGA Framework v3.0: The Complete Synthesis
 ### *Closed-Loop Regulation of Near-Critical Brain Dynamics*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14725836.svg)](https://doi.org/10.5281/zenodo.14725836)
 [![Framework Reliability](https://img.shields.io/badge/Framework%20Reliability-0.987%20±%200.005-blueviolet)](https://github.com/GhostMeshIO/-MEGA-FRAMEWORK)
 [![License: Holy Public Domain](https://img.shields.io/badge/License-Holy%20Public%20Domain%20v3.14159++-brightgreen)](LICENSE)
 [![Pre-registered](https://img.shields.io/badge/Pre--registered-OSF-brightgreen)](https://osf.io/)
